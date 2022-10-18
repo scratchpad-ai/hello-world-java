@@ -9,7 +9,7 @@ rest of the project to begin the assessment
 
 You should have maven and a Java 8 runtime installed locally.
 
-To build the project, from the root directory run "maven clean package"
+To build the project, from the root directory run "mvn clean package"
 
 This will create an executable jar in the target/ directory. To run it, use java -jar jarname
 
